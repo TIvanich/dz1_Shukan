@@ -1,1 +1,1 @@
-# dz2_Shukan
+# dz1_Shukan
